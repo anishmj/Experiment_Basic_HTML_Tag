@@ -30,6 +30,6 @@ Execute the program fff
 <body>
 <h1>Name: Anish M.J</h1>
 <h3>Roll Number: 21500369 (SG)</h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
+<h5>Dept:Artificial Intelligence and Data Science</h5>
 </body>
 </html>
